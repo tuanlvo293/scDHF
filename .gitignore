@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+*.log
+.ipynb_checkpoints/
+
+# Datasets are supplied locally.
+/data/*
+!/data/.gitkeep
