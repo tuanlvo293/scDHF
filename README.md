@@ -1,4 +1,4 @@
-# scDHF
+# scDHF: Dual hypergraph learning for single-cell RNA-seq cell-type classification
 
 This repository contains the implementation of **scDHF**, a dual hypergraph framework for cell-type classification in single-cell RNA sequencing data.
 
